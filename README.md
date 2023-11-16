@@ -1,4 +1,4 @@
-<h1>Data Aalysis Portfolio</h1>
+<h1>Data analyst Portfolio</h1>
 
 <h2>Description</h2>
 In this lab, I show my skills in SQL and my skills with Excel and tablea. 
